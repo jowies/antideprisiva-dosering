@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/antideprisiva-dosering/static/css/main.073c9b0a.css",
-    "main.js": "/antideprisiva-dosering/static/js/main.ad467ed1.js",
+    "main.css": "/antideprisiva-dosering/static/css/main.c7f77528.css",
+    "main.js": "/antideprisiva-dosering/static/js/main.78226cb0.js",
     "index.html": "/antideprisiva-dosering/index.html",
-    "main.073c9b0a.css.map": "/antideprisiva-dosering/static/css/main.073c9b0a.css.map",
-    "main.ad467ed1.js.map": "/antideprisiva-dosering/static/js/main.ad467ed1.js.map"
+    "main.c7f77528.css.map": "/antideprisiva-dosering/static/css/main.c7f77528.css.map",
+    "main.78226cb0.js.map": "/antideprisiva-dosering/static/js/main.78226cb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ad467ed1.js"
+    "static/css/main.c7f77528.css",
+    "static/js/main.78226cb0.js"
   ]
 }
